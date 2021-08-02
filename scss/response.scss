@@ -1,0 +1,274 @@
+@media all and (max-width:600px) {
+    .start-page{
+        width: 1900px;
+        
+    }
+    // .hello {
+    //     display: none;
+    // }
+    // .content {
+    //     position: relative;
+    //     right: 370px;
+    // }
+    // .animated-text {
+    //     color: #fff;
+    //     position: relative;
+    //     left: -220px;
+    //     top: 38%;
+    //     overflow: hidden;
+    //     height: 80px;
+        
+    // }
+    // .good,.happy {
+    //     font-size: 60px;
+    // }
+    // }
+    .Main {
+        position: relative;
+        top: 1000px;
+        width: 1902px;
+        height: 3480px;
+        background-color: #f0f0f0;
+    }
+    .tisskill {
+        position: relative;
+        width: 820px;
+        right: 800px;
+        bottom: 250px;
+    }
+    .BnC {
+        font-family: 'Teko', sans-serif;
+        z-index: 1;
+        position: relative;
+        top: 1870px;
+        left: 444px;
+        font-size: 70px;
+    }
+    .free, .tis {
+        position: relative;
+        width: 160px;
+        left: 380px;
+    }
+    
+    @keyframes anim {
+        0%{
+            margin-top: 0;
+        }
+        50%{
+            margin-top: -120px;
+        }
+        
+        
+        
+            
+    }
+    
+}
+
+@media all and (max-width:1600px) {
+    .start-page {
+        position: relative;
+        bottom: 150px;
+        right: 180px;
+        width: 1900px;
+    }
+    // .hello {
+    //     display: none;
+    // }
+    // .content {
+    //     position: relative;
+    //     right: 370px;
+    // }
+    // .animated-text {
+    //     color: #fff;
+    //     position: relative;
+    //     left: -220px;
+    //     top: 38%;
+    //     overflow: hidden;
+    //     height: 80px;
+        
+    // }
+    // .good,.happy {
+    //     font-size: 60px;
+    // }
+    // }
+    .Main {
+        position: relative;
+        top: -148px;
+        width: 1720px;
+        height: 3480px;
+        background-color: #f0f0f0;
+    }
+    .tisskill {
+        position: relative;
+        right: 800px;
+        bottom: 250px;
+        width: 810px;
+    }
+    .BnC {
+        font-family: 'Teko', sans-serif;
+        z-index: 1;
+        position: relative;
+        top: 1870px;
+        left: 314px;
+        font-size: 70px;
+    }
+    .free, .tis {
+        position: relative;
+        width: 160px;
+        left: 380px;
+    }
+    .MenuBar {
+        position: absolute;
+        bottom: 50px;
+        height: 100px;
+        width: 100%;
+        left: 15%;
+        z-index: 10;
+    }
+    .gnbList .ListHeader1 {
+        display: inline-block;
+        vertical-align: top;
+        position: absolute;
+        height: 100px;
+        left: 240px;
+    }
+    .gnbList .ListHeader2 {
+        display: inline-block;
+        vertical-align: top;
+        position: absolute;
+        height: 100px;
+        left: 520px;
+    }
+    .gnbList .ListHeader3 {
+        display: inline-block;
+        vertical-align: top;
+        position: absolute;
+        height: 100px;
+        left: 750px;
+    }
+    .gnbList .ListHeader4 {
+        display: inline-block;
+        vertical-align: top;
+        position: absolute;
+        height: 100px;
+        left: 1030px;
+    }
+    #AboutMe img {
+        position: absolute;
+        top: 200px;
+        left: 150px;
+        width: 300px;
+    }
+    .typingContents {
+        display: table-cell;
+        vertical-align: middle;
+        position: absolute;
+        top: 200px;
+        left: 480px;
+        border-right: 1px solid black;
+        animation: cursor 0.5s ease infinite;
+    }
+    .Introduce .first {
+        position: absolute;
+        top: 250px;
+        left: 486px;
+        font-size: 20px;
+        bottom: 300px;
+    }
+    .skill {
+        position: absolute;
+        left: 590px;
+        top: 450px;
+    }
+    div#Blog {
+        background-color: palegoldenrod;
+        position: relative;
+        top: 2337px;
+        width: 1621px;
+        height: 560px;
+    }
+    .Project1 {
+        position: relative;
+        width: calc(44% - 3rem);
+        left: 940px;
+        top: 200px;
+    }
+    .h1QnA {
+        position: absolute;
+        left: 864px;
+        top: 710px;
+    }
+    .h1Portfolio {
+        font-family: 'Teko', sans-serif;
+        z-index: 1;
+        position: relative;
+        top: 720px;
+        left: 290px;
+        font-size: 70px;
+    }
+    .PortfolioContents {
+        background-color: #1d809f;
+        position: absolute;
+        right: 100px;
+        top: 1200px;
+        width: 100%;
+        height: 1730px;
+    }
+    .free, .tis {
+        position: relative;
+        width: 160px;
+        left: 270px;
+    }
+    h1.tis {
+        bottom: 240px;
+    }
+    img.port2 {
+        position: relative;
+        top: 260px;
+        right: 800px;
+        width: 760px;
+        height: 500px;
+    }
+    .desc {
+        font-size: 20px;
+        font-family: Noto Sans KR,sans-serif;
+    }
+    .desc2 {
+        position: relative;
+        right: -1px;
+        bottom: 240px;
+        font-size: 20px;
+        font-family: Noto Sans KR,sans-serif;
+    }
+    #Blog img {
+        position: relative;
+        top: 220px;
+        left: 510px;
+        width: 15%;
+        height: 38%;
+    }
+    .contact {
+        position: relative !important;
+        top: 220px !important;
+        left: 610px !important;
+        width: 12% !important;
+        height: 38% !important;
+    }
+    
+    @keyframes anim {
+        0%{
+            margin-top: 0;
+        }
+        50%{
+            margin-top: -120px;
+        }
+        
+        
+        
+            
+    }
+    
+    
+}
+
